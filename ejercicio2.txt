@@ -1,0 +1,4 @@
+1er paso: crear repositorio nuevo publico.
+2do paso: Clonar el URL que nos da el repositorio
+3er paso: Nos dirigimos a nuestro escritorio local y colocamos el comando "git clone (URL)"
+4to paso: Con el comando ls listamos todos los directorios que se encuentran en el escritorio.
